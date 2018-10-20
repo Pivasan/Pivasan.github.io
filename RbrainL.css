@@ -1,0 +1,14 @@
+/*Selector {
+	Property: value;
+}*/
+
+body {
+	background-image: url(piva.jpg);
+	background-size: cover;
+}
+
+h1 {
+	font-family: 'Permanent Marker', cursive;
+	color: pink;
+}
+
